@@ -1,6 +1,6 @@
 # Privacy-Policy-and-Terms-of-Use
 Privacy Policy and Terms of Use
-Terms of Use
+Privacy-Policy and Terms of Use
 These terms of service (“Terms”) cover your use and access to our services and websites (“Services“). Our Privacy Policy explains how we collect and use your information while using our Services. By using our Services, you’re agreeing to be bound by these Terms and our Privacy Policy. If you’re using our Services for an organization, you’re agreeing to these Terms on behalf of that organization. We may change these Terms of Service from time to time, with or without notice. You are responsible for being current on the most recent version of these Terms of Service, and your use of the Sites, as defined in the Privacy Policy, and/or Services indicates your acknowledgement and acceptance of the most recent Terms of Service.
 
 Your Uploaded Information and Permissions
